@@ -1,4 +1,4 @@
-# 🤖 Transcrição de áudio com OpenAi Whisper e Python
+# 🤖 Transcrição de áudio com OpenAI Whisper e Python
 
 Projeto desenvolvido como estudo para a DIO (Digital innovation One).  
 Esta aplicação utiliza o modelo **Whisper** da OpenAI para realizar transcrições de áudio em texto, gerar legendas `.srt` e traduzir áudios de português para Inglês de forma gratuita.
